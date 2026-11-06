@@ -72,4 +72,4 @@ The portrait and work thumbnails automatically fall back to text placeholders wh
 
 The repository includes `.github/workflows/deploy.yml`. Pushing to `main` installs dependencies, builds the Vite site, and deploys the `dist` directory to GitHub Pages.
 
-This configuration targets the root user site at `https://issyuNaN.github.io/`. In the GitHub repository, open **Settings → Pages → Build and deployment** and select **GitHub Actions** as the source.
+This configuration targets the root user site at `https://sherwin-zhou.github.io/`. In the GitHub repository, open **Settings → Pages → Build and deployment** and select **GitHub Actions** as the source.

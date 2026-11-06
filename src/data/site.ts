@@ -20,8 +20,8 @@ export const profile = {
 }
 
 export const links: LinkItem[] = [
-  { label: 'GitHub', url: 'https://github.com/issyuNaN', icon: 'github' },
-  { label: 'Follow', url: 'https://x.com/XuewenZHOUac', icon: 'x' },
+  { label: 'GitHub', url: 'https://github.com/sherwin-zhou', icon: 'github' },
+  { label: 'Follow', url: 'https://x.com/x9sherwin', icon: 'x' },
   { label: 'Google Scholar', url: 'https://scholar.google.com/citations?user=7dYo33EAAAAJ&hl=en', icon: 'scholar' },
 ]
 
@@ -120,7 +120,7 @@ export const projects: Project[] = [
     image: 'images/project-swiftguard.png',
     tags: ['Swift', 'LLM', 'GitHub Actions', 'XCUITest'],
     links: [
-      { label: 'code', url: 'https://github.com/issyuNaN/SwiftGuard' },
+      { label: 'code', url: 'https://github.com/sherwin-zhou/SwiftGuard' },
     ],
   },
 ]
